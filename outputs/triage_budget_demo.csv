@@ -1,0 +1,2 @@
+ticket_id,customer_id,status,category,segment_name,priority,route,tokens_used,raw_text
+T0024,C0486,classified_json,fraud,At-Risk / Lapsed,HIGH,security_team,84,There is an unauthorized transaction on my card linked to order ORD-105035. I did not place it. Call 7766326255.
