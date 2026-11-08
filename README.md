@@ -29,8 +29,7 @@ Follow these numbered shell commands to set up the environment and execute the c
   
 * **SQL Aggregation Summary**:
 
-  |    City   | Total Order| Mean Order | Order Count |
-  |           |Amount (INR)|Amount (INR)|             |
+  |    City   | Total Order Amount (INR)| Mean Order Amount (INR) | Order Count |
   |-----------|------------|------------|-------------|
   | Bengaluru | 523,643.40 |   276.47   |    1,894    |
   | Chennai   | 463,629.15 |   272.72   |    1,700    |
