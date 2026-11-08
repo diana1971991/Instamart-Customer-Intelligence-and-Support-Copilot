@@ -14,7 +14,7 @@ Follow these numbered shell commands to set up the environment and execute the c
 ## Part A
 * **Data Sources Processed**: `customers.csv`, `products.csv`, `orders.csv`
 * **SQLite Database**: `data/instamart.db` with tables `customers`, `products`, `orders`
-* **Data Cleaning Rules (Clean Orders - 5 Marks Documentation)**:
+* **Data Cleaning Rules**:
   1. **Datetime Conversion**: Converted `order_ts` to a standardized datetime format.
   2. **Duplicate Removal**: Removed exact duplicate rows from the dataset.
   3. **Duplicate Resolution by Timestamp**: For orders appearing multiple times with different statuses (e.g., earlier pending record and later final record), kept only the record with the latest `order_ts` for each `order_id`.
